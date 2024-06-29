@@ -4,4 +4,4 @@ This project was the result after searching in medium.com projects about some ki
 
 ## Project inspiration
 
-Thanks to the guide of (Robert McMenemy)[https://medium.com/@rabmcmenemy] with the medium that he uploaded: (Building an Audio Player Desktop App in Rust)[https://medium.com/@rabmcmenemy/building-an-audio-player-desktop-app-in-rust-4642234b0797]
+Thanks to the guide of [Robert McMenemy](https://medium.com/@rabmcmenemy) with the medium that he uploaded: [Building an Audio Player Desktop App in Rust](https://medium.com/@rabmcmenemy/building-an-audio-player-desktop-app-in-rust-4642234b0797)
